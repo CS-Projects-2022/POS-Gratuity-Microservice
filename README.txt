@@ -32,6 +32,7 @@ The microservice ignores the total.txt if it's empty, not a number or
 there is more than one number in the file. 
 The sleep() functions were for debugging and could 
 be removed after integration and working code.
+!POS-Gratuity-Microservice/Org-Charts.Jpeg
 
 
 
